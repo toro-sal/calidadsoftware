@@ -1,0 +1,50 @@
+
+========================================
+ PyLint Results 
+========================================
+************* Module computeStatistics
+computeStatistics.py:29:0: C0301: Line too long (125/100) (line-too-long)
+computeStatistics.py:30:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:42:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:44:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:48:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:51:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:53:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:58:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:70:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:83:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:88:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:92:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:99:0: C0303: Trailing whitespace (trailing-whitespace)
+computeStatistics.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.68/10 
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module computeStatistics
+computeStatistics.py:1:0: C0103: Module name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+computeStatistics.py:28:0: C0103: Function name "computeStatistics" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.71/10 (previous run: 7.68/10, +2.03)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+------------------------------------
+Your code has been rated at 10.00/10
+
+
+========================================
