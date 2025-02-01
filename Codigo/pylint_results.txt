@@ -1,0 +1,222 @@
+
+========================================
+ PyLint Results 
+========================================
+************* Module convertNumbers
+convertNumbers.py:28:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:32:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:41:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:44:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:52:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:73:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:77:0: C0304: Final newline missing (missing-final-newline)
+convertNumbers.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+convertNumbers.py:1:0: C0103: Module name "convertNumbers" doesn't conform to snake_case naming style (invalid-name)
+convertNumbers.py:5:0: C0116: Missing function or method docstring (missing-function-docstring)
+convertNumbers.py:8:13: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+convertNumbers.py:19:0: C0116: Missing function or method docstring (missing-function-docstring)
+convertNumbers.py:22:0: C0116: Missing function or method docstring (missing-function-docstring)
+convertNumbers.py:25:0: C0116: Missing function or method docstring (missing-function-docstring)
+convertNumbers.py:33:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+convertNumbers.py:58:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 7.17/10
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convertNumbers
+convertNumbers.py:32:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:42:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:45:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:48:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:54:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:73:0: C0303: Trailing whitespace (trailing-whitespace)
+convertNumbers.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+convertNumbers.py:1:0: C0103: Module name "convertNumbers" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 8.45/10 (previous run: 7.17/10, +1.28)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:49:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:52:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:55:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:80:0: C0303: Trailing whitespace (trailing-whitespace)
+
+-----------------------------------
+Your code has been rated at 8.79/10
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:49:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:52:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:55:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:80:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 8.79/10 (previous run: 8.79/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:49:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:52:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:55:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:80:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:76:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.67/10 (previous run: 8.79/10, -0.13)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:43:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:49:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:52:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:55:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:84:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:80:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.67/10 (previous run: 8.67/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:44:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:50:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:53:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:56:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:62:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:82:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:88:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 8.69/10 (previous run: 8.67/10, +0.02)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:44:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:50:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:53:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:56:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:62:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:82:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 8.85/10 (previous run: 8.69/10, +0.16)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:48:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:53:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:59:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:78:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.34/10 (previous run: 8.85/10, +0.49)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:76:0: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:80:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.67/10 (previous run: 9.34/10, +0.33)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:75:19: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.84/10 (previous run: 9.67/10, +0.16)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module convert_numbers
+convert_numbers.py:75:19: C0303: Trailing whitespace (trailing-whitespace)
+convert_numbers.py:76:0: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.67/10 (previous run: 9.84/10, -0.16)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.67/10, +0.33)
+
+
+========================================
