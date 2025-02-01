@@ -1,0 +1,76 @@
+
+========================================
+ PyLint Results 
+========================================
+************* Module wordCount
+wordCount.py:47:0: C0301: Line too long (101/100) (line-too-long)
+wordCount.py:51:0: C0301: Line too long (116/100) (line-too-long)
+wordCount.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+wordCount.py:1:0: C0103: Module name "wordCount" doesn't conform to snake_case naming style (invalid-name)
+
+-----------------------------------
+Your code has been rated at 9.29/10
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module wordCount
+wordCount.py:5:0: C0301: Line too long (102/100) (line-too-long)
+wordCount.py:57:0: C0301: Line too long (101/100) (line-too-long)
+wordCount.py:1:0: C0103: Module name "wordCount" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.47/10 (previous run: 9.29/10, +0.19)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module word_count
+word_count.py:5:0: C0301: Line too long (102/100) (line-too-long)
+word_count.py:57:0: C0301: Line too long (101/100) (line-too-long)
+
+-----------------------------------
+Your code has been rated at 9.65/10
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module word_count
+word_count.py:58:53: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.82/10 (previous run: 9.65/10, +0.18)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+************* Module word_count
+word_count.py:58:53: C0303: Trailing whitespace (trailing-whitespace)
+
+------------------------------------------------------------------
+Your code has been rated at 9.82/10 (previous run: 9.82/10, +0.00)
+
+
+========================================
+
+========================================
+ PyLint Results 
+========================================
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.82/10, +0.18)
+
+
+========================================
